@@ -1,0 +1,3 @@
+wordpress
+wordpress/description
+wordpress/comments
